@@ -1,7 +1,0 @@
-{
-    "recommendations": [
-        "fortran-lang.linter-gfortran",
-        "krvajalm.linter-gfortran"
-        //"hansec.fortran-ls"
-    ]
-}
