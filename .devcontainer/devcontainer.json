@@ -1,0 +1,15 @@
+{
+    "name": "Fortran Development",
+    "build": {
+        "dockerfile": "Dockerfile"
+    },
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "fortran-lang.linter-gfortran",
+                "krvajalm.linter-gfortran"
+            ]
+        }
+    }
+    //"remoteUser": "daytona"
+}

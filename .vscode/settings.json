@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "*.f90": "FortranFreeForm",
+        "*.f": "FortranFixedForm",
+        "*.for": "FortranFixedForm",
+        "*.f77": "FortranFixedForm"
+    },
+    "[fortran]": {
+        "editor.tabSize": 2,
+        "editor.insertSpaces": true
+    },
+    "fortran.linter.compiler": "gfortran"
+}
